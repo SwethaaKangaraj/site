@@ -1,0 +1,152 @@
+body{
+  /* background-image: url(image/rainbow1.jpg);  */
+  background-color: rgb(199, 204, 245);
+  text-align: center;
+  margin: 0;
+}
+h1{
+  color:rgb(6, 65, 83);
+  font-size: 50px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr{
+  border: dotted;
+  color: rgb(150, 163, 163);
+  border-bottom: none;
+  width: 25%;
+  text-align: center;
+}
+p{
+  color:rgb(6, 65, 83);
+  font-size: 1.5rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.butterfly{
+  height: 300px;
+  width: 200px;
+  position: absolute;
+  top: 50px;
+  right: 800px;
+}
+.headdiv{
+  position: absolute;
+  top: 200px;
+  left: 600px;
+  
+}
+.linkk{
+ position: absolute;
+ top: 50px;
+ right: 50px;
+ font-size: 20px;
+}
+.butterfly1{
+  height: 300px;
+  width: 200px;
+  position: absolute;
+  right: 200px;
+  bottom: 50px;
+}
+.grassdiv{
+  position: absolute;
+  top: 120px;
+}
+.grassdiv1{
+  position: absolute;
+  top: 154px;
+  left: 700px;
+}
+.profile{
+  margin: 30px auto 30px auto;
+  width: 75%;
+}
+.Myskills{
+  width: 75%;
+  margin: 30px auto 30px auto;
+}
+.myskill{
+  height: 20%;
+  width: 20%;
+  float: left;
+  /* margin: 50px auto 50px auto; */
+
+}
+.myskill1{
+  height: 20%;
+  width: 20%;
+  float: right;
+  /* margin: 50px auto 50px auto; */
+
+}
+.skilldesc{
+  text-align: left;
+  line-height: 1.5;
+}
+.java{
+  margin: 30px auto 30px auto;
+}
+.head{
+  text-align: left;
+}
+a{
+  
+  margin: 40px;
+  text-decoration: none;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.cont{
+  width: 3%;
+  height: 3%;
+  float: 300px;
+}
+.bottomdiv{
+  padding-top: 60px;
+  background-color: rgb(125, 136, 207);
+  height: 80px ;
+}
+.copyright{
+  padding-top:20px ;
+  font-size: small;
+}
+
+a:hover{
+  color: rgb(90, 97, 148);
+}
+label{
+  color: rgb(6, 65, 83);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: left;
+}
+.contact{
+  width: 50%;
+  margin: 40px auto 30px;
+}
+.btn{
+  margin: 60px;
+  background-color: rgb(140, 152, 245); /* Green */
+  border: 500px;
+  border-radius: 5%;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+
+  font-size: 16px;
+}
+.btn{
+  margin: 60px;
+  background-color: rgb(132, 144, 236); /* Green */
+  border: 500px;
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 23px;
+
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+.btn:hover{
+  background-color: rgb(179, 186, 240);
+  color: rgb(128, 138, 212);
+}
